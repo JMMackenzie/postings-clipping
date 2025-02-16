@@ -20,6 +20,7 @@ This repo is a snapshot of what was submitted to EMNLP in 2022. Unfortunately, t
 
 This README is outlined according to the directory structure.
 
+```
 ├── data
 │   ├── decompress-queries.sh
 │   ├── get-data.sh
@@ -52,6 +53,7 @@ This README is outlined according to the directory structure.
     ├── README.md
     ├── split_index.cpp
     └── tokenize_queries.py
+```
 
 data
 ----
